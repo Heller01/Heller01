@@ -30,7 +30,7 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+
 <div>
 <img src="https://img.shields.io/badge/-Telecommunication-FF0000?&style=for-the-badge&logo=BSNL&logoColor=white" />
 <img src="https://img.shields.io/badge/-Linux%2B-007ACC?&style=for-the-badge&logo=Udemy&logoColor=white" />
