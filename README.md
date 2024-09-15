@@ -32,15 +32,17 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 ## Certifications
 
 <div>
-<img src="https://img.shields.io/badge/-Telecommunication-FF0000?&style=for-the-badge&logo=BSNL&logoColor=white" />
-<img src="https://img.shields.io/badge/-Linux%2B-007ACC?&style=for-the-badge&logo=Udemy&logoColor=white" />
+
+<img src="https://img.shields.io/badge/-Linux & Bash-007ACC?&style=for-the-badge&logo=Udemy&logoColor=white" />
 <img src="https://img.shields.io/badge/-Web Application Security -4D4D4D?&style=for-the-badge&logo=Udemy&logoColor=white" />
-<img src="https://img.shields.io/badge/-cybersecurity Anaylist Job Simulation-006400?&style=for-the-badge&logo=TCs&logoColor=white" />
+<img src="https://img.shields.io/badge/-Burpsuite-007ACC?&style=for-the-badge&logo=Udemy&logoColor=white" />
+
 
 </div>
 
 
 ## Projects
+
 Elastic Stack SIEM Configuration and Management:
 Successfully set up and configure elastic stack SIEM in a home lab environment. Demonstrated proficiency in deploying a kali Linux VM, configuring elastic agents for log collection and forwarding data to the SIEM for effective security event monitoring.
 
@@ -50,6 +52,10 @@ Acquired hands on experience in generating and analyzing security events using N
 Visualization and Alerting in SIEM:
 Developed a custom dashboard in elastic SIEM to visualize security events, demonstrating skills in data interpretation and pattern recognition. Successfully created and tested alert rules for detecting specific security events, showing competency in proactive incident Response and alert management.
 
-Heller01/Heller01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## Internship and Training
+
+Four week Telecommunication training in BSNL.
+
+3 Month Internship of Content Writing in THEPOPTIMES.
+
+Cybersecurity Anaylist Job Simulation in TCS.
