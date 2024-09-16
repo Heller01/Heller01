@@ -58,4 +58,4 @@ Four week Telecommunication training in BSNL.
 
 3 Month Internship of Content Writing in THEPOPTIMES.
 
-Cybersecurity Anaylist Job Simulation in TCS.
+Cybersecurity Analyst Job Simulation in TCS.
