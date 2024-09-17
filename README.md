@@ -54,7 +54,7 @@ Developed a custom dashboard in elastic SIEM to visualize security events, demon
 
 ## Internship and Training
 
-Four week Telecommunication training in BSNL.
+Four week TELECOM training in BSNL.
 
 3 Month Internship of Content Writing in THEPOPTIMES.
 
