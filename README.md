@@ -98,7 +98,3 @@ Built custom visual dashboards and alert rules in Elastic SIEM for real-time inc
 - **Telecom Training (4 Weeks)** – *BSNL*
 - **Content Writing Internship (3 Months)** – *THEPOPTIMES*
 
-
----
-
-Let me know if you’d like a [PDF version](f), [add a dark mode switch](f), or [turn this into a portfolio website](f).
