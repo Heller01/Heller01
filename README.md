@@ -1,5 +1,6 @@
 # Hello, I'm Ayushman Maurya
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-maurya-15642422b)
+[![TryHackMe](https://img.shields.io/badge/SOC_Level_1-202C23?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/heller01K)
 
 I am a B.Tech student specializing in Electronics and Communication Engineering, with a strong interest in technology and cybersecurity. As an ethical hacker, I’ve developed expertise in areas such as web application security, computer networking, Bash scripting, Linux, and Python. I also enjoy basketball and writing, having interned at *Poptimes* as a content writer.
 
@@ -15,9 +16,9 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 
 | Skill                               | Project Link                                                                 |
 |-------------------------------------|------------------------------------------------------------------------------|
-| SIEM Configuration & Management     | [Detection Lab](https://youtu.be/zMo_kavzMBo)                                |
+| SIEM Configuration & Management     | [Detection Lab](https://github.com/Heller01/Elastic-SIEM-Lab)                                |
 | Security Events Simulation          | [Detection Lab](https://youtu.be/zMo_kavzMBo)                                |
-| Python Image Steganography          | [Secure Data Hiding](https://github.com/Heller01/Secure-Data-Hiding-in-Images-Using-Steganography) |
+| Python Image Steganography          | [Detection Lab](https://github.com/Heller01/Secure-Data-Hiding-in-Images-Using-Steganography) |
 
 ---
 
