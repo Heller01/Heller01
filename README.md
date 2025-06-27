@@ -4,13 +4,13 @@
 
 I am a B.Tech student specializing in Electronics and Communication Engineering, with a strong interest in technology and cybersecurity. As an ethical hacker, I’ve developed expertise in areas such as web application security, computer networking, Bash scripting, Linux, and Python. I also enjoy basketball and writing, having interned at *Poptimes* as a content writer.
 
----
+
 
 ## 🎯 Objective
 
 My journey in Electronics and Communication Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
----
+
 
 ## 💻 Projects
 
@@ -20,7 +20,7 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 | Security Events Simulation          | [Detection Lab](https://youtu.be/zMo_kavzMBo)                                |
 | Python Image Steganography          | [Detection Lab](https://github.com/Heller01/Secure-Data-Hiding-in-Images-Using-Steganography) |
 
----
+
 
 ## 🛠 Skills
 
@@ -67,7 +67,7 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 ![Project Management](https://img.shields.io/badge/Project_Management-777BB4?style=for-the-badge)
 ![Leadership](https://img.shields.io/badge/Leadership-005571?style=for-the-badge)
 
----
+
 
 ## 📜 Certifications
 
@@ -76,7 +76,7 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 ![EC-Council](https://img.shields.io/badge/Cybersecurity_Fundamentals-EF3B2D?style=for-the-badge&logo=ec-council&logoColor=white)
 ![ISRO](https://img.shields.io/badge/GeoData_&_Cybersecurity-005571?style=for-the-badge&logo=isro&logoColor=white)
 
----
+
 
 ## 🧠 Project Descriptions
 
@@ -89,7 +89,7 @@ Simulated attacks using tools like Nmap, analyzed logs in Elastic SIEM. Queried 
 **Visualization and Alerting in SIEM**  
 Built custom visual dashboards and alert rules in Elastic SIEM for real-time incident detection. Improved capabilities in proactive monitoring and log-based security operations.
 
----
+
 
 ## 🧑‍💻 Internship and Training
 
