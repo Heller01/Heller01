@@ -11,8 +11,9 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://youtu.be/zMo_kavzMBo">Detection Lab</a>|
-| Python Image Steganography                    | <a href="https://github.com/Heller01/Secure-Data-Hiding-in-Images-Using-Steganography">Detection Lab</a>|
+| SIEM Configuration and Management|       <a href="https://youtu.be/zMo_kavzMBo">Detection Lab</a>|
+|Security Events Simulation and Analysis|  <a href="https://youtu.be/zMo_kavzMBo">Detection Lab</a>|
+| Python Image Steganography|               <a href="https://github.com/Heller01/Secure-Data-Hiding-in-Images-Using-Steganography">Detection Lab</a>|
 
 
 ## Skills
