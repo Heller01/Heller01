@@ -7,7 +7,7 @@ I am an B.Tech student specializing in Electronics and Communication Engineering
 
 My journey in Electronics and Communication Engineering has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
