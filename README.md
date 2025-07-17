@@ -17,7 +17,7 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 | Skill                               | Project Link                                                                 |
 |-------------------------------------|------------------------------------------------------------------------------|
 | SIEM Configuration & Management     | [Detection Lab](https://github.com/Heller01/Elastic-SIEM-Lab)                                |
-| Security Events Simulation          | [Detection Lab](https://youtu.be/zMo_kavzMBo)                                |
+| Security Events Simulation          | [Detection Lab](https://youtu.be/24WXVU8kEJM)                                |
 | Python Image Steganography          | [Detection Lab](https://github.com/Heller01/Secure-Data-Hiding-in-Images-Using-Steganography) |
 
 
