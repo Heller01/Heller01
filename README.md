@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-maurya-15642422b)
 [![TryHackMe](https://img.shields.io/badge/SOC_Level_1-202C23?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/heller01K)
 
-I am a B.Tech student specializing in Electronics and Communication Engineering, with a strong interest in technology and cybersecurity. As an SOC Analyst, I’ve developed expertise in areas such as web application security, computer networking, Bash scripting, Linux, and Python. I also enjoy basketball and writing, having interned at *Poptimes* as a content writer.
+I'm a dedicated cybersecurity enthusiast and B.Tech Graduate in Electronics and Communication Engineering. With a strong skill set in SIEM configuration and management (Elastic Stack, Splunk), I've actively worked on projects that enhance real-time threat detection and incident response. My experience includes simulating various cyber threats, optimizing attack detection rules, and leveraging tools like Wazuh, Wireshark, and NMAP. I hold certifications like the Google Cybersecurity Professional Certificate, TryHackMe SOC level 1 and am committed to continuous learning and applying my skills to solve complex security challenges. My goal is to build a career in a dynamic and challenging cybersecurity environment.
 
 
 
