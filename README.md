@@ -2,7 +2,7 @@
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushman-maurya-15642422b)
 [![TryHackMe](https://img.shields.io/badge/SOC_Level_1-202C23?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/heller01K)
 
-I'm a dedicated cybersecurity enthusiast and B.Tech Graduate in Electronics and Communication Engineering. With a strong skill set in SIEM configuration and management (Elastic Stack, Splunk), I've actively worked on projects that enhance real-time threat detection and incident response. My experience includes simulating various cyber threats, optimizing attack detection rules, and leveraging tools like Wazuh, Wireshark, and NMAP. I hold certifications like the Google Cybersecurity Professional Certificate, TryHackMe SOC level 1 and am committed to continuous learning and applying my skills to solve complex security challenges. My goal is to build a career in a dynamic and challenging cybersecurity environment.
+I'm a dedicated cybersecurity enthusiast and B.Tech Graduate in Electronics and Communication Engineering. With a strong skill set in SIEM configuration and management (Elastic Stack, Splunk), I've actively worked on projects that enhance real-time threat detection and incident response. My experience includes simulating various cyber threats, optimizing attack detection rules, and leveraging tools like Wazuh, Wireshark, and NMAP. I hold certifications like the Google Cybersecurity Professional Certificate, TryHackMe SOC level 2 and am committed to continuous learning and applying my skills to solve complex security challenges. My goal is to build a career in a dynamic and challenging cybersecurity environment.
 
 
 
