@@ -71,7 +71,7 @@ My journey in Electronics and Communication Engineering has led me to develop a 
 
 ## 📜 Certifications
 
-![TryHackMe](https://img.shields.io/badge/SOC_Level_1-007ACC?style=for-the-badge&logo=tryhackme&logoColor=white)
+![TryHackMe](https://img.shields.io/badge/SOC_Level_2-007ACC?style=for-the-badge&logo=tryhackme&logoColor=white)
 ![Google Cybersecurity](https://img.shields.io/badge/Google_Cybersecurity_Certificate-4D4D4D?style=for-the-badge&logo=google&logoColor=white)
 ![EC-Council](https://img.shields.io/badge/Cybersecurity_Fundamentals-EF3B2D?style=for-the-badge&logo=ec-council&logoColor=white)
 ![ISRO](https://img.shields.io/badge/GeoData_&_Cybersecurity-005571?style=for-the-badge&logo=isro&logoColor=white)
